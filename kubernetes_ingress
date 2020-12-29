@@ -55,3 +55,6 @@ spec:
         args:
         - /nginx-ingress-controller
         - --publish-service=$(POD_NAMESPACE)/nginx-ingress-lb
+
+
+https://aws.amazon.com/blogs/opensource/kubernetes-ingress-aws-alb-ingress-controller/
